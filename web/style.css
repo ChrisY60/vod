@@ -1,0 +1,13 @@
+.cookieButton {
+    border: none;
+    padding: 0;
+    background: none;
+  }
+
+body {
+  background-image: url('background.png');
+}
+.font1 {
+    font-family: "Advent Pro";
+    color: #fff
+}
